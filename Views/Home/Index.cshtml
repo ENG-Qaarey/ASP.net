@@ -1,8 +1,77 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="hero">
+    <div class="hero__content">
+        <p class="hero__eyebrow">New release</p>
+        <h1 class="hero__title">Build fast, ship clean, look confident.</h1>
+        <p class="hero__subtitle">
+            A crisp starter for APIs and web apps with a modern layout, bold typography, and a
+            clear visual rhythm.
+        </p>
+        <div class="hero__actions">
+            <a class="hero__btn hero__btn--primary" href="/api/users">View Users API</a>
+            <a class="hero__btn hero__btn--ghost" href="https://learn.microsoft.com/aspnet/core">ASP.NET Docs</a>
+        </div>
+        <div class="hero__meta">
+            <div class="meta-card">
+                <span class="meta-card__label">Latency</span>
+                <span class="meta-card__value">38ms</span>
+            </div>
+            <div class="meta-card">
+                <span class="meta-card__label">Uptime</span>
+                <span class="meta-card__value">99.98%</span>
+            </div>
+            <div class="meta-card">
+                <span class="meta-card__label">Deploy</span>
+                <span class="meta-card__value">One command</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="hero__panel">
+        <div class="panel-card">
+            <div class="panel-card__header">
+                <span>Activity</span>
+                <span class="panel-card__badge">Live</span>
+            </div>
+            <div class="panel-card__body">
+                <div class="panel-row">
+                    <span class="dot dot--green"></span>
+                    <span>GET /api/users</span>
+                    <span class="panel-row__time">1.2s</span>
+                </div>
+                <div class="panel-row">
+                    <span class="dot dot--blue"></span>
+                    <span>POST /hello</span>
+                    <span class="panel-row__time">0.6s</span>
+                </div>
+                <div class="panel-row">
+                    <span class="dot dot--amber"></span>
+                    <span>GET /api/data</span>
+                    <span class="panel-row__time">0.9s</span>
+                </div>
+            </div>
+            <div class="panel-card__footer">
+                <span>Last deploy</span>
+                <strong>Today, 08:41</strong>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="feature-grid">
+    <article class="feature">
+        <h3>Clean routing</h3>
+        <p>Controllers and minimal APIs play well together and stay organized as you grow.</p>
+    </article>
+    <article class="feature">
+        <h3>Built-in performance</h3>
+        <p>Keep your app fast with sensible defaults and a layout that avoids clutter.</p>
+    </article>
+    <article class="feature">
+        <h3>Consistent style</h3>
+        <p>Reusable components, bold color, and a layout that looks good on any device.</p>
+    </article>
+</section>

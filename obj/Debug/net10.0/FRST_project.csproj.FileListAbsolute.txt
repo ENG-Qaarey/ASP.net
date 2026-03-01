@@ -21,7 +21,6 @@ D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\rjsmcshtml.dswa.cach
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\scopedcss\bundle\FRST_project.styles.css
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\scopedcss\projectbundle\FRST_project.bundle.scp.css
-D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\compressed\e1h06qvm9u-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\compressed\g9ep5qdu4g-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\compressed\4uwg20cjfy-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\compressed\3ofdb8h7ny-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\refint\FRST_project.
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\FRST_project.pdb
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\FRST_project.genruntimeconfig.cache
 D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\ref\FRST_project.dll
+D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\FRST_project.sourcelink.json
+D:\LocalD\All-MyTest\ASP.net\FRST_PROJECT\obj\Debug\net10.0\compressed\e1h06qvm9u-{0}-v26bkzra0a-v26bkzra0a.gz
